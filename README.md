@@ -2,6 +2,7 @@
 <h3>A passionate fullstack javascript developer from Indonesia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanjadi&label=Profile%20views&color=0e75b6&style=flat" alt="hassanjadi" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 🔭 I’m currently working on **Student Synrgy Academy BCA**
 
 - 🌱 I’m currently learning **Typescript**
