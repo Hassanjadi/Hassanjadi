@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hassanjadi</h1>
-<h3 align="center">A passionate fullstack javascript developer from Indonesia</h3>
+<h1>Holla! 👋, I'm Hassanjadi</h1>
+<h3>A passionate fullstack javascript developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanjadi&label=Profile%20views&color=0e75b6&style=flat" alt="hassanjadi" /> </p>
 
@@ -9,15 +9,9 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [-](-)
-
-- 📝 I regularly write articles on [-](-)
-
-- 💬 Ask me about **React and javascript**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **hassanjadi25@gmail.com**
-
-- 📄 Know about my experiences [-](-)
 
 - ⚡ Fun fact **I think I am funny**
 
