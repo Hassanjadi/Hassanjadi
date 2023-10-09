@@ -1,4 +1,4 @@
-<h1 align="center">Hallo Everyone 👋</h1>
+<h1>Hallo Everyone 👋</h1>
 
 <p>Hi! My name is Hasssan Jadi</p>
 <p>"Welcome to my GitHub repository! I'm thrilled to have you here exploring my projects and code. Feel free to browse through the repositories, open issues, and contribute. Your presence is appreciated, and I hope you find something valuable here. Happy coding!"</p>
