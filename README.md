@@ -1,7 +1,9 @@
-<p>Holla! My name is Hasssan Jadi</p>
-<p>"Hello and welcome to my GitHub repository! I'm thrilled to have you here exploring my projects and code. Feel free to browse through the repositories, open issues, and contribute. Your presence is appreciated, and I hope you find something valuable here. Happy coding!"</p>
+<h1 align="center">Hallo Everyone 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanjadi&label=Profile%20views&color=0e75b6&style=flat" alt="hassanjadi" /> </p>
+<p>Hi! My name is Hasssan Jadi</p>
+<p>"Welcome to my GitHub repository! I'm thrilled to have you here exploring my projects and code. Feel free to browse through the repositories, open issues, and contribute. Your presence is appreciated, and I hope you find something valuable here. Happy coding!"</p>
+
+<h3/>About Me</h3>
 
 - 🔭 I’m currently working on **Synrgy Academy BCA**
 
