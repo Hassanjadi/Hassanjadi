@@ -11,9 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Projects**
 
-- 💬 Ask me about **javascript and laravel**
-
-- ⚡ Fun fact **I think I am perfectionist**
+- 💬 Ask me about **Javascript and Laravel**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
