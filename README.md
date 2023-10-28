@@ -5,13 +5,13 @@
 
 <h2/>About Me</h2>
 
-- 🔭 I’m currently working on **Synrgy Academy BCA**
+- 🔭 I’m currently learning on **Synrgy Academy BCA**
 
 - 🌱 I’m currently learning **Javascript for backend and Typescript**
 
 - 👯 I’m looking to collaborate on **Projects**
 
-- 💬 Ask me about **Javascript and Laravel**
+- 💬 Ask me about **MERN**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
