@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Projects**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Programming**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
