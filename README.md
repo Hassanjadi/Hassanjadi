@@ -1,7 +1,7 @@
-# Hassanjadi - Developer
+# Hassanjadi - Web Developer
 
 ## About me
-I am Hassan Jadi ( Developer ). I love creating things aswell as solving problems, my interest in computer science and math has always been a big passion and driver of mine. I'm a Full Stack developer, my preferred language is Javascript. I would ideally always like to work on applications and producing innovative ideas. Happy coding!
+I am Hassan Jadi ( Web Developer ). I love creating things aswell as solving problems, my interest in computer science and math has always been a big passion and driver of mine. I'm a Full Stack developer, my preferred language is Javascript. I would ideally always like to work on applications and producing innovative ideas. Happy coding!
 
 <p>
   <a href="https://www.medium.com/@hassanjadi" target="_blank">
