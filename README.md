@@ -1,10 +1,7 @@
 # hassanjadi - Developer
 
 ## About me
-I am Hassan Jadi ( Developer ). I love creating things aswell as solving problems, my interest in computer science and math has always been a big passion and driver of mine. I'm a Full Stack developer, my preferred language is Javascript. I would ideally always like to work on applications and producing innovative ideas.
-
-<p>Hi! My name is Hasssan Jadi</p>
-<p>"Welcome to my GitHub repository! I'm thrilled to have you here exploring my projects and code. Feel free to browse through the repositories, open issues, and contribute. Your presence is appreciated, and I hope you find something valuable here. Happy coding!"</p>
+I am Hassan Jadi ( Developer ). I love creating things aswell as solving problems, my interest in computer science and math has always been a big passion and driver of mine. I'm a Full Stack developer, my preferred language is Javascript. I would ideally always like to work on applications and producing innovative ideas. Happy coding!
 
 <p>
   <a href="https://www.medium.com/@hassanjadi" target="_blank">
