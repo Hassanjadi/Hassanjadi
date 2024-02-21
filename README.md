@@ -18,6 +18,7 @@ I am Hassan Jadi ( Developer ). I love creating things aswell as solving problem
 
 ## Used Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-circle&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-white?logo=bootstrap)
 ![React](https://img.shields.io/badge/-React-white?style=flat-circle&logo=react)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat-solid&logo=postgresql)
 ![NPM](https://img.shields.io/badge/-NPM-white?style=flat-circle&logo=npm)
@@ -26,6 +27,7 @@ I am Hassan Jadi ( Developer ). I love creating things aswell as solving problem
 ![Vite](https://img.shields.io/badge/-Vite-white?style=flat-circle&logo=vite)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-white?style=flat-circle&logo=tailwindcss)
 ![Figma](https://img.shields.io/badge/-Figma-white?style=flat-circle&logo=figma)
+![Knexjs](https://img.shields.io/badge/Knex-white?logo=Knex.js)
 ![docker](https://img.shields.io/badge/-docker-white?style=flat-circle&logo=docker)
 
 ## Explored Technologies
