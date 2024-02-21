@@ -39,7 +39,10 @@ I am Hassan Jadi ( Developer ). I love creating things aswell as solving problem
 ![Canva](https://img.shields.io/badge/-Canva-white?style=flat-circle&logo=canva)
 
 ## Blogs
-<p><a href="https://medium.com/p/b4a62244520d" target="_blank">
+<p><a href="https://medium.com/@hassanjadi/ui-ux-study-case-optimalisasi-aplikasi-gojek-terhadap-keluhan-user-untuk-meningkatkan-kenyamanan-ec33c93d0caf" target="_blank">
   UI/UX Study Case : Optimalisasi Aplikasi Gojek Terhadap Keluhan User Untuk Meningkatkan Kenyamanan Penggunaannya
+</a></p>
+<p><a href="https://medium.com/@hassanjadi/refresh-mobile-application-9883c56a85e6" target="_blank">
+  Refresh — Mobile Application
 </a></p>
 
